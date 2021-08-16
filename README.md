@@ -10,7 +10,7 @@ Sistema para o gerenciamento de pessoas através de uma API REST, criada com o S
 Para executar o projeto no terminal, digite o seguinte comando:
 
 ```shell script
-mvn spring-boot:run 
+mvnw spring-boot:run 
 ```
 
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
@@ -47,5 +47,4 @@ Abaixo, links de programas utilizados na construção do projeto
 ## **📝Licença**
 
  [MIT](https://github.com/AAndersonSantos/Administration-System/blob/main/LICENSE) 
-
 
